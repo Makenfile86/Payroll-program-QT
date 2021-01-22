@@ -16,6 +16,8 @@ At this point the program reads certain specific two week excell (.xlsx) shift s
 
 ![image:](https://github.com/Makenfile86/Payroll-program-QT/blob/main/payroll1.jpg?raw=true)
 
+# Open excell file
+
 ![image:](https://github.com/Makenfile86/Payroll-program-QT/blob/main/payroll3.jpg?raw=true)
 
 # Results calculated: 
