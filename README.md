@@ -10,14 +10,14 @@ At this point the program reads certain specific two week excell (.xlsx) shift s
 
 
 # Example excell:
-![image:](https://github.com/Makenfile86/ray-tracer/blob/main/example_excell.jpg?raw=true)
+![image:](https://github.com/Makenfile86/Payroll-program-QT/blob/main/example_excell.jpg?raw=true)
 
 # How to use:
 
-![image:](https://github.com/Makenfile86/ray-tracer/blob/main/payroll1.jpg?raw=true)
+![image:](https://github.com/Makenfile86/Payroll-program-QT/blob/main/payroll1.jpg?raw=true)
 
-![image:](https://github.com/Makenfile86/ray-tracer/blob/main/payroll3.jpg?raw=true)
+![image:](https://github.com/Makenfile86/Payroll-program-QT/blob/main/payroll3.jpg?raw=true)
 
 # Results calculated: 
 
-![image:](https://github.com/Makenfile86/ray-tracer/blob/main/payroll2.jpg?raw=true)
+![image:](https://github.com/Makenfile86/Payroll-program-QT/blob/main/payroll2.jpg?raw=true)
