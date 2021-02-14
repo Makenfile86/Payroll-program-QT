@@ -4,7 +4,7 @@ https://www.qt.io/
 //
 # Payroll_prog QT C++
 
-//A payroll program I did for a friends company. The GUI is in Finnish, Mac supported only right now.
+//A payroll program I did for a friends company. The GUI is in Finnish.
 
 At this point the program reads certain specific two week excell (.xlsx) shift schedule using https://github.com/dbzhang800/QtXlsxWriter - (Check the installation instructions). 
 
